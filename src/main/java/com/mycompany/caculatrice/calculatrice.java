@@ -86,7 +86,7 @@ public class calculatrice extends javax.swing.JFrame {
         });
 
         Btn5.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
-        Btn5.setText("5");
+        Btn5.setText("8");
         Btn5.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 Btn5ActionPerformed(evt);
